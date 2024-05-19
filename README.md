@@ -2,23 +2,15 @@
 <h1 align="center">Hi 👋, I'm Emir Salih</h1>
 <h3 align="center">I'm Emir, a software engineering student currently studying at Beykoz University. My passion for technology and curiosity constantly drive me to learn new things and improve myself in the world of software.</h3>
 
-- 🔭 I’m currently working on [Bla,bla,bla](proje linki)
+- 🔭 I’m currently working on Flutter Development, OPP(C++), Deep learning.
 
-- 🌱 I’m currently learning **Bla,bla,bla**
+- 🌱 I’m currently learning Android Development,System Administration. 
 
-- 👯 I’m looking to collaborate on [Bla,bla,bla](proje linki)
+- 👨‍💻 You can reach all my projects through my github profile.
 
-- 🤝 I’m looking for help with [Bla,bla,bla](proje linki)
+- 💬 Ask me about OPP for C++.
 
-- 👨‍💻 All of my projects are available at [Portfolyo linki](Portfolyo linki)
-
-- 📝 I regularly write articles on [makale linkin](makale linkin)
-
-- 💬 Ask me about **Bla,bla,bla**
-
-- 📫 How to reach me **EPOSTAN**
-
-- 📄 Know about my experiences [tecrübeler linki cv](tecrübeler linki cv)
+- 📫 How to reach me emirslh.kisisel@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
